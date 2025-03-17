@@ -1,6 +1,6 @@
 # nyɑSɑkurɑ-MC - 「 机械樱花乡 · 铁道养老町 」
 🌸 **官网直通车** [![Website](https://img.shields.io/badge/点击访问-樱花町驿站-%23FF69B4?style=flat&logo=internet-explorer)](https://nyasakura.fun)  
-🐾 **QQ群速递** [![QQ Group](https://img.shields.io/badge/加入-樱械同萌群-%2312B7F5?style=flat&logo=tencentqq)](https://jq.qq.com/?_wv=你的QQ群链接)
+🐾 **QQ群速递** [![QQ Group](https://img.shields.io/badge/加入-樱械同萌群-%2312B7F5?style=flat&logo=tencentqq)](https://jq.qq.com/?_wv=点击链接加入群聊【LittleSheep's Minecraft Server】：https://qm.qq.com/q/ezAwvmlaXm)
 
 ---
 
